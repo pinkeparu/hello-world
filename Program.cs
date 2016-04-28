@@ -10,7 +10,7 @@ namespace ArrayNonNull
     {
         static void Main(string[] args)
         {
-            int[] array = Enumerable.Repeat(100, 10).ToArray();
+            string[] array = Enumerable.Repeat("paru", 10).ToArray();
 
             
 
